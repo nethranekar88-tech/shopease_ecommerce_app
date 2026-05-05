@@ -22,11 +22,11 @@ ShopEase is a feature-rich e-commerce mobile application built with Flutter, pro
 <table>
   <tr>
     <td align="center">
-      <img src="lib/screenshot/splash.png" width="200" alt="Splash Screen">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/splash.png" width="200" alt="Splash Screen">
       <br><b>Splash Screen</b>
     </td>
     <td align="center">
-      <img src="lib/screenshot/onboarding.png" width="200" alt="Onboarding">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/onboarding.png" width="200" alt="Onboarding">
       <br><b>Onboarding</b>
     </td>
   </tr>
@@ -36,7 +36,7 @@ ShopEase is a feature-rich e-commerce mobile application built with Flutter, pro
 <table>
   <tr>
     <td align="center">
-      <img src="lib/screenshot/login.png" width="200" alt="Login Screen">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/login.png" width="200" alt="Login Screen">
       <br><b>Login</b>
     </td>
   </tr>
@@ -46,15 +46,15 @@ ShopEase is a feature-rich e-commerce mobile application built with Flutter, pro
 <table>
   <tr>
     <td align="center">
-      <img src="lib/screenshot/home.png" width="200" alt="Home Screen">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/home.png" width="200" alt="Home Screen">
       <br><b>Home</b>
     </td>
     <td align="center">
-      <img src="lib/screenshot/product_details.png" width="200" alt="Product Details">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/product_details.png" width="200" alt="Product Details">
       <br><b>Product Details</b>
     </td>
     <td align="center">
-      <img src="lib/screenshot/cart.png" width="200" alt="Shopping Cart">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/cart.png" width="200" alt="Shopping Cart">
       <br><b>Shopping Cart</b>
     </td>
   </tr>
@@ -64,15 +64,15 @@ ShopEase is a feature-rich e-commerce mobile application built with Flutter, pro
 <table>
   <tr>
     <td align="center">
-      <img src="lib/screenshot/checkout.png" width="200" alt="Checkout">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/checkout.png" width="200" alt="Checkout">
       <br><b>Checkout</b>
     </td>
     <td align="center">
-      <img src="lib/screenshot/order_success.png" width="200" alt="Order Success">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/order_success.png" width="200" alt="Order Success">
       <br><b>Order Success</b>
     </td>
     <td align="center">
-      <img src="lib/screenshot/orders.png" width="200" alt="My Orders">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/orders.png" width="200" alt="My Orders">
       <br><b>My Orders</b>
     </td>
   </tr>
@@ -82,11 +82,11 @@ ShopEase is a feature-rich e-commerce mobile application built with Flutter, pro
 <table>
   <tr>
     <td align="center">
-      <img src="lib/screenshot/profile.png" width="200" alt="User Profile">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/profile.png" width="200" alt="User Profile">
       <br><b>User Profile</b>
     </td>
     <td align="center">
-      <img src="lib/screenshot/track_order.png" width="200" alt="Track Order">
+      <img src="https://raw.githubusercontent.com/nethranekar88-tech/shopease_ecommerce_app/main/lib/screenshot/track_order.png" width="200" alt="Track Order">
       <br><b>Track Order</b>
     </td>
   </tr>
