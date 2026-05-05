@@ -8,13 +8,19 @@ ShopEase is a feature-rich e-commerce mobile application built with Flutter, pro
 
 ## Features
 
-✅ **User Authentication** - Secure login and registration system
-✅ **Product Catalog** - Browse products with detailed information
-✅ **Shopping Cart** - Add/remove items and manage quantities
-✅ **Secure Checkout** - Safe payment processing
-✅ **Order Management** - Track orders in real-time
-✅ **User Profile** - Manage personal information and addresses
-✅ **Onboarding** - Smooth app introduction for new users
+- Splash screen with Farm2Table branding
+- Onboarding / welcome screen
+- Login screen
+- Product listing with category filters
+- Product details screen
+- Add to cart functionality
+- Cart with quantity update
+- Checkout screen with address and payment method
+- Order placed confirmation
+- Order tracking screen
+- My Orders screen
+- Profile screen
+- Bottom navigation
 
 ## Screenshots
 
@@ -135,18 +141,23 @@ lib/
 - **Firebase/Backend** - Authentication & Data Storage
 - **Provider/GetX** - State Management
 
-## Contributing
+## Use Case
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+This app can be customized for:
 
-## License
+- Grocery delivery business
+- Farm product marketplace
+- Vegetable and fruit ordering app
+- Local store e-commerce app
+- Food and essentials delivery app
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Project Status
 
-## Support
+Completed as a portfolio and client demo project.
 
-For support, email your-email@example.com or open an issue on GitHub.
 
----
+**Developer**
 
-**Made with ❤️ using Flutter**
+Nethra Nekar
+Flutter & FlutterFlow Developer
+GitHub: nethranekar88-tech
