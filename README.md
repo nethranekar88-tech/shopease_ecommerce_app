@@ -158,6 +158,6 @@ Completed as a portfolio and client demo project.
 
 **Developer**
 
-Nethra Nekar
-Flutter & FlutterFlow Developer
-GitHub: nethranekar88-tech
+- Nethra Nekar
+- Flutter & FlutterFlow Developer
+- GitHub: nethranekar88-tech
