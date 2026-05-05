@@ -141,6 +141,51 @@ lib/
 - **Firebase/Backend** - Authentication & Data Storage
 - **Provider/GetX** - State Management
 
+## 🚀 Flutter Web Deployment (GitHub Pages)
+
+This app is deployed and hosted on GitHub Pages for free! Access it live at:
+
+🔗 **Live Demo:** https://nethranekar88-tech.github.io/shopease_ecommerce_app/
+
+### Deployment Steps (10-15 minutes)
+
+**Step 1: Build your app for web**
+```bash
+flutter build web
+```
+This creates a `build/web` folder with your web-optimized app.
+
+**Step 2: Install gh-pages tool**
+```bash
+npm install -g gh-pages
+```
+
+**Step 3: Deploy to GitHub Pages**
+```bash
+gh-pages -d build/web
+```
+
+**Step 4: Enable GitHub Pages in your repository**
+1. Go to your repository settings: `Settings → Pages`
+2. **Source:** Select `Deploy from a branch`
+3. **Branch:** Select `gh-pages`
+4. **Folder:** Select `/ (root)`
+5. Click **Save**
+
+After 1-2 minutes, your app will be live at:
+```
+https://<your-username>.github.io/<your-repo-name>/
+```
+
+### Re-deploy after changes
+Simply run these commands again:
+```bash
+flutter build web
+gh-pages -d build/web
+```
+
+---
+
 ## Use Case
 
 This app can be customized for:
